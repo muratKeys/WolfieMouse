@@ -1,0 +1,8 @@
+.metadata
+AtollicWebServices_app.log
+AtollicWebServices_app.log.lck
+board_init.cpp
+**/.settings/
+**/Debug/
+.vagrant
+*.log
